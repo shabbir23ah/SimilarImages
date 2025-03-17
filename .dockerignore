@@ -1,0 +1,7 @@
+.conda/
+env/
+.git/
+__pycache__/
+*.pyc
+*.pth
+*.bin
